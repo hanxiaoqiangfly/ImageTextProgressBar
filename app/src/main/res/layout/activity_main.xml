@@ -21,6 +21,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_marginTop="40dp"
-        app:itpbProgress="60"
+        app:itpbProgress="61"
         app:itpbTextContent="40%"/>
 </LinearLayout>
