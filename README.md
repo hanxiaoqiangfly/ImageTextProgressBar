@@ -1,8 +1,8 @@
 # ImageTextProgressBar
 
-*`效果图以及详细介绍请移居我的博客查看，欢迎提出问题`
+* `效果图以及详细介绍请移居我的博客查看，欢迎提出问题`
 
-*`[我的博客](https://blog.csdn.net/qq_21434809/article/details/81979460)`
+* `[我的博客](https://blog.csdn.net/qq_21434809/article/details/81979460)`
 
 How to
 
