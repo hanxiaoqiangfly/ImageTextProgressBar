@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ImageTextProgressBar">
+        <attr name="itpbTextBackground" format="reference"/>
+        <attr name="itpbTextColor" format="color"/>
+        <attr name="itpbTextSize" format="dimension"/>
+        <attr name="itpbTextContent" format="string"/>
+        <attr name="itpbProgressDrawable" format="reference"/>
+        <attr name="itpbProgress" format="integer"/>
+    </declare-styleable>
+
+</resources>

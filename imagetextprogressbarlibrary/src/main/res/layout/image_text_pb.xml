@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+    <ProgressBar
+        android:id="@+id/pb_progressbar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:layout_centerVertical="true"
+        android:max="100"
+        android:progress="0"
+        android:progressDrawable="@drawable/progress_drawable"/>
+
+    <TextView
+        android:id="@+id/pb_precent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:background="@drawable/love"
+        android:gravity="center"
+        android:text="0%"
+        android:textColor="@android:color/white"
+        android:textSize="12sp"/>
+
+</RelativeLayout>
