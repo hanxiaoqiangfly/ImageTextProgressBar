@@ -20,6 +20,6 @@ Step 2. Add the dependency
 
 	dependencies {
 
-	implementation 'com.github.hanxiaoqiangfly:ImageTextProgressBar:v1.0'
+		implementation 'com.github.hanxiaoqiangfly:ImageTextProgressBar:v1.0'
 	
 	}
