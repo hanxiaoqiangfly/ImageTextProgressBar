@@ -1,6 +1,8 @@
 # ImageTextProgressBar
 
-#How to
+`[我的博客](https://blog.csdn.net/qq_21434809/article/details/81979460)`
+
+How to
 
 To get a Git project into your build:
 
